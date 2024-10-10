@@ -10,12 +10,12 @@
 	"language" : "english",
 	"compatibility" :
 	{
-		"min" : "1.4",
+		"min" : "1.4"
 	},
 	"changelog" :
     {
         "1.0"   : [ "Initial release" ],
-		"1.1"   : [ "Added support for a new terrains in the Towns new views mod" ],
+		"1.1"   : [ "Added support for a new terrains in the Towns new views mod" ]
     },
-	"keepDisabled" : false,
+	"keepDisabled" : false
 }
